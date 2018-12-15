@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/dev-bootcamp-2019/simple-bank-feamcor.svg?branch=master)](https://travis-ci.org/dev-bootcamp-2019/simple-bank-feamcor)
+
 # Simple Bank Exercise
 
 The Simple Bank directory is a truffle project that contains the required contract, migration and test files. In this exercise you are going to implement the SimpleBank.sol contract.
